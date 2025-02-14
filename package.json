@@ -23,6 +23,7 @@
     "firebase-admin": "^13.0.2",
     "ioredis": "^5.4.2",
     "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.10.0",
     "mysql2": "^3.12.0",
     "node-cron": "^3.0.3",
     "path": "^0.12.7",
