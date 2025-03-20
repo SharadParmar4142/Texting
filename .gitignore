@@ -1,0 +1,4 @@
+.env
+node_modules
+tsconfig.json
+serviceAccountKey.json
